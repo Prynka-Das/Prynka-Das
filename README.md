@@ -40,11 +40,6 @@ I am a B.Tech Computer Science Engineering (Data Science) student specializing i
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prynka-Das&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <br>
 
